@@ -1,5 +1,3 @@
-# Journal Society
-
 ## What Is The Journal Society
 The Journal Society is a group of people coming together on a regular basis to discuss scientific and mathematical ideas in a rigorous manner. The document you are reading currently is a loose transcription of those discussions as well as the efforts undertaken by those members to solve the problems posed by those discussions.
 
